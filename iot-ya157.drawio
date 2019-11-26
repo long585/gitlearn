@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T07:54:28.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xftnkUMOgeiDuAAgweLE" version="12.3.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T08:22:35.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="OLUKFkocD0dSnoApBQ_N" version="12.3.0" type="github" pages="1">
   <diagram id="nqKth1ZQTFShanpt9qv0" name="Page-1">
     <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,26 +171,26 @@
             <mxPoint x="371" y="360.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ry5mK1qghVqO1V57hb5L-55" value="Network Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="60" y="114" width="100" height="35" as="geometry"/>
+        <mxCell id="Ry5mK1qghVqO1V57hb5L-55" value="Network Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="115" width="100" height="35" as="geometry"/>
         </mxCell>
-        <mxCell id="Ry5mK1qghVqO1V57hb5L-56" value="MQTT Demo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="184" y="114" width="90" height="35" as="geometry"/>
+        <mxCell id="Ry5mK1qghVqO1V57hb5L-56" value="MQTT Demo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="184" y="115" width="90" height="35" as="geometry"/>
         </mxCell>
-        <mxCell id="Ry5mK1qghVqO1V57hb5L-57" value="IEC61850 Demo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="300.5" y="114" width="110" height="35" as="geometry"/>
+        <mxCell id="Ry5mK1qghVqO1V57hb5L-57" value="IEC61850 Demo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="115" width="110" height="35" as="geometry"/>
         </mxCell>
-        <mxCell id="Ry5mK1qghVqO1V57hb5L-59" value="System Info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="437" y="114" width="100" height="35" as="geometry"/>
+        <mxCell id="Ry5mK1qghVqO1V57hb5L-59" value="System Info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="115" width="100" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="Ry5mK1qghVqO1V57hb5L-60" value="MQTT Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="195" y="250.5" width="120" height="25" as="geometry"/>
+          <mxGeometry x="145" y="250.5" width="120" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="Ry5mK1qghVqO1V57hb5L-61" value="IEC61850 Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="332.5" y="250.5" width="120" height="25" as="geometry"/>
+          <mxGeometry x="312.5" y="250.5" width="120" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="Ry5mK1qghVqO1V57hb5L-62" value="Dbus Dameon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="85" y="215.5" width="590" height="25" as="geometry"/>
+          <mxGeometry x="60" y="216" width="615" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="Ry5mK1qghVqO1V57hb5L-63" value="Connman&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="250.5" width="120" height="25" as="geometry"/>
@@ -205,7 +205,7 @@
           <mxGeometry x="50" y="156" width="640" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Ry5mK1qghVqO1V57hb5L-68" value="WEB Demo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="71" width="193" height="30" as="geometry"/>
+          <mxGeometry x="300" y="80" width="150" as="geometry"/>
         </mxCell>
         <mxCell id="Ry5mK1qghVqO1V57hb5L-70" value="" style="endArrow=none;html=1;fontSize=9;exitX=0.004;exitY=0.128;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ry5mK1qghVqO1V57hb5L-13" target="Ry5mK1qghVqO1V57hb5L-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -216,8 +216,8 @@
         <mxCell id="Ry5mK1qghVqO1V57hb5L-71" value="&lt;b style=&quot;font-size: 15px&quot;&gt;MEasy IOT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="305" y="30.5" width="130" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Ry5mK1qghVqO1V57hb5L-73" value="Document Gudie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="563.5" y="113.5" width="100" height="35" as="geometry"/>
+        <mxCell id="Ry5mK1qghVqO1V57hb5L-73" value="Document Gudie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="569" y="113.5" width="113" height="35" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
